@@ -1,8 +1,8 @@
-#Project 1 - Movie Class Website
+# Project 1 - Movie Class Website
 
 An example of how to dynamically display class objects into HTML with the help of external modules and method functions
 
-#Author
+# Author
 
 Ariel Soriano
 
@@ -11,7 +11,7 @@ Ariel Soriano
 This project is intended to reinforce the learning of class structures and general Python knowledge
 
 
-#Installation
+# Installation
 
 1. If using *OSX* first launch *Terminal*
 
@@ -26,6 +26,6 @@ This project is intended to reinforce the learning of class structures and gener
 
 If all paths are correct the program should output an HTML website on your browser of choice with a display of 6 movie titles 
 
-#Credit
+# Credit
 
 Skeleton code of project sourced via videos of Fullstack Nanodegree Program
